@@ -12,7 +12,7 @@
 I'm a backend developer from Russia  
 <br>
 <br>
-<summary><h2><b>📚 My stack</b></h2></summary>
+<h2><b>📚 My stack</b></h2>
 <div>
     <img src="https://skillicons.dev/icons?i=py&perline=7" />
     <img src="https://skillicons.dev/icons?i=postgres&perline=7" />
@@ -26,7 +26,7 @@ I'm a backend developer from Russia
 </div>
 
 <br>
-<summary><h2><b>⭐GitHub stats</b></h2></summary>
+<h2><b>⭐GitHub stats</b></h2>
 
 <div>
     <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivkrak&layout=compact&theme=cobalt" />
