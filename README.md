@@ -1,12 +1,7 @@
 <h1 align="center">👋 Hello! I'm Krakovskii Ivan </h1>
-
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
-
-
-
 <div align="center">
     <h2>About me</h2>
     <img height="30" src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white">
@@ -14,8 +9,6 @@
     I'm a backend developer from Russia  
 </div>
 <br>
-<br>
-
 <div align="center">
     <h2><b>📚 My stack</b></h2>
     <br>
@@ -29,10 +22,7 @@
     <img width="40" height="40" src="assets/PyCharm_Icon.svg" />
     <img width="40" height="40" src="https://skillicons.dev/icons?i=linux" />
 </div>
-
 <br>
-
-
 <div align="center">
     <h2><b>⭐GitHub stats</b></h2>
     <br>
