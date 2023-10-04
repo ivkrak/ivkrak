@@ -1,6 +1,7 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="200"/>
-</div>
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 <div id="badges"
     <img src="https://komarev.com/ghpvc/?username=IKrakovskii&style=flat-square&color=blue" alt=""/>
 </div>
