@@ -29,7 +29,7 @@ I'm a backend developer from Russia
 <summary><h2><b>⭐GitHub stats</b></h2></summary>
 
 <div>
-    <img width="300" src="https://github-readme-stats.vercel.app/api?username=IKrakovskii&count_private=true&show_icons=true&theme=cobalt&layout=compact&hide_border=true" />
+    <img width="300" src="https://github-readme-stats.vercel.app/api?username=ivkrak&count_private=true&show_icons=true&theme=cobalt&layout=compact&hide_border=true" />
     <br>
-    <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=IKrakovskii&layout=compact&theme=cobalt" />
+    <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivkrak&layout=compact&theme=cobalt" />
 </div>
