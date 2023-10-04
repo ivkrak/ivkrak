@@ -12,7 +12,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ivkrak)
 I'm a backend developer from Russia.  
 
-details align="left">
+<details align="left">
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
     <h3>Langs</h3>
@@ -33,6 +33,5 @@ details align="left">
     <img width="40" height="40" src="https://skillicons.dev/icons?i=neovim&perline=7" />
     <img width="40" height="40" src="assets/PyCharm_Icon.svg" />
     <img width="40" height="40" src="https://skillicons.dev/icons?i=linux" />
-  </p>  
-
+  </p>
 </details>
