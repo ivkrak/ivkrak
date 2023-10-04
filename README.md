@@ -19,9 +19,12 @@ details align="left">
     <img src="https://skillicons.dev/icons?i=py,postgres,sqlite&perline=7" />
     <h3>Frameworks / Tools</h3>
     <img src="https://skillicons.dev/icons?i=django,docker,git&perline=7" />
+    </p>    
     <h3>Software</h3>
-    <img width="40" height="40" src="https://skillicons.dev/icons?i=neovim&perline=7" />&nbsp;
-    <img width="40" height="40" src="assets/PyCharm_Icon.svg" />&nbsp;
-    <img width="40" height="40" src="https://skillicons.dev/icons?i=linux" />&nbsp;
-  </p>
+    <p>
+        <img width="40" height="40" src="https://skillicons.dev/icons?i=neovim&perline=7" />
+        <img width="40" height="40" src="assets/PyCharm_Icon.svg" />
+        <img width="40" height="40" src="https://skillicons.dev/icons?i=linux" />
+    </p>  
+
 </details>
