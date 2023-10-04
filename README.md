@@ -33,5 +33,5 @@ I'm a backend developer from Russia
     <br>
     <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivkrak&layout=compact&theme=cobalt" />
    <br>
-  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ivkrak&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ivkrak&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
