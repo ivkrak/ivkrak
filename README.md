@@ -10,7 +10,7 @@
 
 ## About me
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ivkrak)
-
+[![VK](https://upload.wikimedia.org/wikipedia/commons/f/f3/VK_Compact_Logo_%282021-present%29.svg)](https://vk.com/ivkrak)
 I'm a backend developer from Russia  
 
 <details align="left">
