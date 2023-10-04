@@ -18,10 +18,11 @@ details align="left">
     <h3>Langs</h3>
     <img src="https://skillicons.dev/icons?i=py,postgres,sqlite&perline=7" />
     <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=linux,django,docker,git&perline=7" />
+    <img src="https://skillicons.dev/icons?i=django,docker,git&perline=7" />
     <h3>Software</h3>
     <img src="https://skillicons.dev/icons?i=neovim&perline=7"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-plain-wordmark.svg"/>
+    <img width="40" src="assets/PyCharm_Icon.svg"/>
+    <img width="40" src="https://skillicons.dev/icons?i=linux"/>
     <br>
   </p>
 </details>
