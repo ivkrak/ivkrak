@@ -23,6 +23,5 @@ details align="left">
     <img src="https://skillicons.dev/icons?i=neovim&perline=7"/>
     <img width="40" src="assets/PyCharm_Icon.svg"/>
     <img width="40" src="https://skillicons.dev/icons?i=linux"/>
-    <br>
   </p>
 </details>
