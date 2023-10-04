@@ -20,8 +20,8 @@ details align="left">
     <h3>Frameworks / Tools</h3>
     <img src="https://skillicons.dev/icons?i=django,docker,git&perline=7" />
     <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=neovim&perline=7"/>
-    <img width="40" src="assets/PyCharm_Icon.svg"/>
-    <img width="40" src="https://skillicons.dev/icons?i=linux"/>
+    <img src="https://skillicons.dev/icons?i=neovim&perline=7" />&nbsp;
+    <img width="40" src="assets/PyCharm_Icon.svg" />&nbsp;
+    <img width="40" src="https://skillicons.dev/icons?i=linux" />&nbsp;
   </p>
 </details>
