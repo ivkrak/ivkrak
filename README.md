@@ -6,14 +6,19 @@
 
 
 
-## About me
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ivkrak)
 
-I'm a backend developer from Russia  
+<div align="center">
+    <h2>About me</h2>
+    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white">
+    <br>
+    I'm a backend developer from Russia  
+</div>
 <br>
 <br>
-<h2><b>📚 My stack</b></h2>
-<div>
+
+<div align="center">
+    <h2><b>📚 My stack</b></h2>
+    <br>
     <img src="https://skillicons.dev/icons?i=py&perline=7" />
     <img src="https://skillicons.dev/icons?i=postgres&perline=7" />
     <img src="https://skillicons.dev/icons?i=sqlite&perline=7" />
@@ -26,9 +31,11 @@ I'm a backend developer from Russia
 </div>
 
 <br>
-<h2><b>⭐GitHub stats</b></h2>
 
-<div>
+
+<div align="center">
+    <h2><b>⭐GitHub stats</b></h2>
+    <br>
     <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivkrak&layout=compact&theme=cobalt" />
     <br>
     <img width="300" src="https://github-readme-stats.vercel.app/api?username=ivkrak&count_private=true&show_icons=true&theme=cobalt&layout=compact&hide_border=true" />
