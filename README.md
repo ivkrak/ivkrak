@@ -35,3 +35,14 @@ I'm a backend developer from Russia.
     <img width="40" height="40" src="https://skillicons.dev/icons?i=linux" />
   </p>
 </details>
+
+<details align="left">
+  <summary><h2><b>⭐GitHub stats</b></h2></summary>
+  <p>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IKrakovskii&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
+   <br>
+   <img src="https://github-readme-stats.vercel.app/api?username=IKrakovskii&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
+    <br>
+   
+  </p>
+</details>
