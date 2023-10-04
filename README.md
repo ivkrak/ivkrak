@@ -16,15 +16,23 @@ details align="left">
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
     <h3>Langs</h3>
-    <img src="https://skillicons.dev/icons?i=py,postgres,sqlite&perline=7" />
-    <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=django,docker,git&perline=7" />
-    </p>    
+    <img src="https://skillicons.dev/icons?i=py&perline=7" />
+    <img src="https://skillicons.dev/icons?i=postgres&perline=7" />
+    <img src="https://skillicons.dev/icons?i=sqlite&perline=7" />
+  </p>
+  <p>
+    <h3>Frameworks</h3>
+    <img src="https://skillicons.dev/icons?i=django&perline=7" />
+    <img src="https://skillicons.dev/icons?i=docker&perline=7" />
+    <img src="https://skillicons.dev/icons?i=git&perline=7" />
+  </p>
+   
+    
+  <p>
     <h3>Software</h3>
-    <p>
-        <img width="40" height="40" src="https://skillicons.dev/icons?i=neovim&perline=7" />
-        <img width="40" height="40" src="assets/PyCharm_Icon.svg" />
-        <img width="40" height="40" src="https://skillicons.dev/icons?i=linux" />
-    </p>  
+    <img width="40" height="40" src="https://skillicons.dev/icons?i=neovim&perline=7" />
+    <img width="40" height="40" src="assets/PyCharm_Icon.svg" />
+    <img width="40" height="40" src="https://skillicons.dev/icons?i=linux" />
+  </p>  
 
 </details>
