@@ -32,4 +32,6 @@ I'm a backend developer from Russia
     <img width="300" src="https://github-readme-stats.vercel.app/api?username=ivkrak&count_private=true&show_icons=true&theme=cobalt&layout=compact&hide_border=true" />
     <br>
     <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivkrak&layout=compact&theme=cobalt" />
+   <br>
+  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ivkrak&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 </div>
