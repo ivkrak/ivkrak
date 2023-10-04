@@ -41,8 +41,6 @@ I'm a backend developer from Russia.
   <p>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IKrakovskii&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
    <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=IKrakovskii&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
-    <br>
-   <img src="https://metrics.lecoq.io/Ikrakovskii" />
+   
   </p>
 </details>
