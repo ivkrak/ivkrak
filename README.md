@@ -12,7 +12,7 @@
 I'm a backend developer from Russia  
 <br>
 <br>
-<h2>📚 My stack</h2>
+<h2><b>📚 My stack</b></h2>
 <div>
     <img src="https://skillicons.dev/icons?i=py&perline=7" />
     <img src="https://skillicons.dev/icons?i=postgres&perline=7" />
