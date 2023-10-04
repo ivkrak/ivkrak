@@ -22,7 +22,9 @@ I'm a backend developer from Russia
 
 <div>
     <h3>Frameworks</h3>
-    <img src="https://skillicons.dev/icons?i=django&perline=7" /><img src="https://skillicons.dev/icons?i=docker&perline=7" /><img src="https://skillicons.dev/icons?i=git&perline=7" />
+    <img src="https://skillicons.dev/icons?i=django&perline=7" />
+    <img src="https://skillicons.dev/icons?i=docker&perline=7" />
+    <img src="https://skillicons.dev/icons?i=git&perline=7" />
 </div>
 
 
