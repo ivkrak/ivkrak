@@ -19,7 +19,7 @@
     <img src="https://skillicons.dev/icons?i=docker&perline=7" />
     <img src="https://skillicons.dev/icons?i=git&perline=7" />
     <img width="40" height="40" src="https://skillicons.dev/icons?i=neovim&perline=7" />
-    <img width="40" height="40" src="assets/PyCharm_Icon.svg" />
+    <img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" />
     <img width="40" height="40" src="https://skillicons.dev/icons?i=linux" />
 </div>
 <br>
