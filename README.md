@@ -6,7 +6,7 @@
     <h2>About me</h2>
     <a href="https://t.me/ivkrak">  <img height="30" src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"></a>
     <br>
-    I'm a backend developer from < a href="https://CLO.ru">
+    I'm a backend developer from < a href="https://CLO.ru">CLO.ru</a>
 </div>
 <br>
 <div align="center">
