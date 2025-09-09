@@ -1,12 +1,16 @@
-<h1 align="center">👋 Hello! I'm Krakovskii Ivan </h1>
+<h1 align="center">👋 Hello! I'm Krakovskii Ivan</h1>
+
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+  <img width="600" src="assets/github-snake.svg" alt="snake animation"/>
 </p>
+
 <div align="center">
-    <h2>About me</h2>
-    <a href="https://t.me/ivkrak">  <img height="30" src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"></a>
-    <br>
-    I'm a backend developer from < a href="https://CLO.ru">CLO.ru</a>
+  <h2>About me</h2>
+  <a href="https://t.me/ivkrak">
+    <img height="30" src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <br>
+  I'm a backend developer at <a href="https://CLO.ru">CLO.ru</a>
 </div>
 <br>
 <div align="center">
