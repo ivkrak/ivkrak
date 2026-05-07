@@ -6,15 +6,9 @@
 
 <div align="center">
   <h3>Python Backend Developer</h3>
-  <p>Россия, Иркутск</p>
+  <p>Россия, Москва</p>
   <a href="https://t.me/ivkrak">
     <img height="30" src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ivan-krakovskii">
-    <img height="30" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/ivkrak">
-    <img height="30" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
