@@ -42,7 +42,6 @@
 
 ## 📬 Контакты
 - 💬 Telegram: [@ivkrak](https://t.me/ivkrak)  
-- 🌐 Website: [ivkrak.ru](https://ivkrak.ru)  
 
 ---
 
