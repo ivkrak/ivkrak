@@ -35,13 +35,4 @@
 ---
 
 ## 📬 Контакты
-- 💬 Telegram: [@ivkrak](https://t.me/ivkrak)  
-
----
-
-## ⭐ GitHub Stats
-<p align="center">
-  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivkrak&layout=compact&theme=cobalt" />
-  <br>
-  <img width="450" src="https://github-readme-stats.vercel.app/api?username=ivkrak&count_private=true&show_icons=true&theme=cobalt&layout=compact&hide_border=true" />
-</p>
+- 💬 Telegram: [@ivkrak](https://t.me/ivkrak)
